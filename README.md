@@ -1,3 +1,4 @@
+## Zk proofs
 Low product-market fit / low user traction — Some ZK-native protocols (or derivatives on StarkNet) failed or shuttered due to minimal user activity and weak token/economic design. ZKX's shutdown is an explicit example. 
 Unchained
 +1
